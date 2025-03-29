@@ -1,15 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
 
 # Hi there, I'm Mandabi Mandal! 👋
 
@@ -88,7 +76,7 @@ I thrive on building intelligent AI-driven solutions, automation systems, and in
 ## 🌍 **Let's Connect!**
 <p align="center">
   <a href="mailto:mandabi4u@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your--email%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-mandabi4u@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mandabi-mandal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
